@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { VoteComponent } from './vote.component';
+import { VoteComponent } from './vote.component';//this is automaticall added in the code when you start using the method or create an instance of a class from the ts file.
 
 describe('VoteComponent', () => {
     //let component = new VoteComponent;
